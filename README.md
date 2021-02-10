@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
 
 Perform requests on the OpenWeather map API and Google Places API to obtain city weather data and hotel information to then display the data in a world map according to preferred weather criteria.
 
